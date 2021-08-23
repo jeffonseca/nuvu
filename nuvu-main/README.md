@@ -34,39 +34,4 @@ Generación de Artefacto
 gradle build
 ```
 
-## Documentación y Pruebas - SWAGGER
-### _Vista General de Documentación_
-![alt text here](https://i.ibb.co/VL6PvqS/Captura-de-Pantalla-2021-06-01-a-la-s-11-42-38-a-m.png)
-
-### _Vista Especifica de Pruebas Controller_
-![alt text here](https://i.ibb.co/xKZnxQz/Captura-de-Pantalla-2021-06-01-a-la-s-11-49-16-a-m.png)
-
-### _Vista Especificaciones y Reglas de los DTO_
-![alt text here](https://i.ibb.co/Xtfd4H0/Captura-de-Pantalla-2021-06-01-a-la-s-11-51-03-a-m.png)
-
-Visualización de Documentación y Pruebas del Servicio.
-```sh
-http://localhost:8080/nuvu/swagger.html
-```
-
-## Archivos Postman De Pruebas
-Se adjunta imagen de muestra de las pruebas realizadas con postman, adicionalmente se incluye url de descarga
-
-![alt text here](https://i.ibb.co/pXYh5kQ/Captura-de-Pantalla-2021-06-01-a-la-s-11-52-56-a-m.png)
-
-Descarga de Colección Postman
-```sh
-https://drive.google.com/file/d/19QzAL0sXen2BWDmUHu2bLp5kZjE2S3EK/view?usp=sharing
-```
-
-## URL Publica - Google Cloud
-
-Se sube el microservicio como recurso App Engine de Google Cloud
-
-![alt text here](https://i.ibb.co/LYGkDcB/Captura-de-Pantalla-2021-06-01-a-la-s-11-59-54-a-m.png)
-
-Url pública deñ microservicio
-```sh
-https://pivotal-spark-304216.df.r.appspot.com
-```
 
